@@ -1,0 +1,27 @@
+h1{
+    text-align: center;
+}
+
+h2{
+    color:white;
+}
+h3{
+    color: azure;
+}
+img{
+    display: flex;
+    justify-content: center;
+}
+em{
+    color: yellow;
+}
+body{
+    background-image: url(solar\ paisaje.webp);
+}
+a{
+    display: flex;
+    justify-content: center;
+}
+p{
+    color: aliceblue;
+}
